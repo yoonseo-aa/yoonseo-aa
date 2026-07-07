@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi 👋 I'm Yoonseo
+# Hi, I'm Yoonseo 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1500&color=4F8EF7&center=true&vCenter=true&width=650&lines=React+%7C+TypeScript+Developer;Always+Learning+Something+New;Building+Better+Web+Experiences)](https://git.io/typing-svg)
+### Software Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=6E7681&center=true&vCenter=true&repeat=true&width=650&lines=Passionate+about+building+meaningful+software.;Always+learning+and+growing.;Turning+ideas+into+real+projects." />
 
 </div>
-
----
 
 ## 👩🏻 About Me
 
