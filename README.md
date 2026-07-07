@@ -57,18 +57,6 @@
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yoonseo-aa&layout=compact&theme=github_dark&hide_border=true"/>
 </div>
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yoonseo-aa&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
 ## 📫 Contact
 
 <p>
